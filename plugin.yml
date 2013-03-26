@@ -1,0 +1,16 @@
+name: FoolMe
+main: com.worldcretornica.foolme.FoolMe
+version: '0.1'
+author: ZachBora
+description: >
+             April fool plugin!
+commands:
+    foolme:
+        description: List FoolMe commands
+        usage: /foolme
+    foolme enable:
+        description: Enables FoolMe
+        usage: /foolme enable
+    foolme disable:
+        description: Disables FoolMe
+        usage: /foolme disable
